@@ -8,9 +8,13 @@
     font-weight: 600;
   }
   
-  .Home .lander p {
-    color: #999;
-  }
+.Home .lander p {
+  color: #999;
+}
+
+.dash {
+  text-align: center;
+}
 
   body > div,
   body > div > div,

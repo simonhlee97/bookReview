@@ -16,8 +16,4 @@ export default () =>
     <Route path="/dashboard" exact component={Dashboard} />
     <Route path="/indecision" exact component={Indecision} />
     
-    
-    
-    
-    
-  </Switch>;
+</Switch>;
